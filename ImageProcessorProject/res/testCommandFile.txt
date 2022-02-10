@@ -1,0 +1,10 @@
+load res/quincy.jpg quincy
+mosaic 1000 quincy quincy-1000
+save res/quincy-1000.jpg quincy-1000
+mosaic 4000 quincy quincy-4000
+save res/quincy-4000.jpg quincy-4000
+mosaic 8000 quincy quincy-8000
+save res/quincy-8000.jpg quincy-8000
+mosaic 15000 quincy quincy-15000
+save res/quincy-15000.jpg quincy-15000
+quit
