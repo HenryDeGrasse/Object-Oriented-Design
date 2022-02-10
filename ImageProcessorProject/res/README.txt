@@ -1,4 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2636
+{\rtf1\ansi\ansicpg1252\cocoartf2580
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset134 PingFangSC-Regular;
 }
 {\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
@@ -49,6 +49,7 @@ Throughout the design process, in order to implement image mosaicking to be in h
 5. Finally, we added the new script command "script "in the GUI and Script-based controller so that it could call the mosaic commands in step 4. We also added a new JMenuItem in the GUI for mosaic and add its action listener so that users could play with the new \
 feature there.\
 \
+\pard\pardeftab720\partightenfactor0
 
 \f0\b \cf2 Other Notes:
 \f1\b0 \cf0 \
