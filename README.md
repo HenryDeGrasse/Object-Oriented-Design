@@ -1,4 +1,4 @@
-# Object-Oriented-Design
+# Object Oriented Design
 Code containing most projects from Northeastern University Class
 
 
