@@ -1,5 +1,5 @@
 # Object Oriented Design
-Code containing most projects from Northeastern University Class
+Code containing class projects at NU
 
 
 This README is for an image processing program created by Tehani Cabour and updated by Henry deGrasse and Wanru Shao for Northeastern University’s Object Oriented Design class. The image processing program works by loading in any image and altering the image and saving it as a new altered image.
